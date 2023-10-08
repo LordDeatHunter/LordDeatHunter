@@ -11,4 +11,8 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorddeathunter&count_private=true&layout=compact&theme=radical" />
   </a>
+  <br>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=lorddeathunter&theme=radical&column=5" />
+  </a>
 </div>
